@@ -2,7 +2,8 @@ services:
     app:
         image: node:22
         command: bash -c "
-            git clone --depth=1 https://github.com/wrytes/3dotscapital-app.git /app &&
+            git clone --depth=1 ${GIT_URL} /app &&
+            git checkout ${GIT_BRANCH:-main} &&
             cd /app &&
             yarn install --frozen-lockfile &&
             yarn run build &&
@@ -25,6 +26,8 @@ services:
             restart_policy:
                 condition: on-failure
         environment:
+            - GIT_URL=${GIT_URL}
+            - GIT_BRANCH=${GIT_BRANCH}
             - LETSENCRYPT_HOST=${LETSENCRYPT_HOST}
             - VIRTUAL_HOST=${VIRTUAL_HOST}
             - VIRTUAL_PORT=${VIRTUAL_PORT}
