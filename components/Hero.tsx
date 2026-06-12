@@ -17,9 +17,8 @@ export default function Hero() {
 							company established in Estonia in 2022. We develop
 							and execute profitable trading strategies in
 							traditional financial markets, while channeling
-							those earnings into research and development of
-							cutting-edge technologies and strategic business
-							ventures.
+							those earnings into research and development of new
+							strategic business ventures.
 						</p>
 					</div>
 

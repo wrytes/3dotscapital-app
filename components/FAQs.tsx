@@ -20,7 +20,7 @@ const faqs = [
 export default function FAQs() {
   return (
     <section className="py-20 md:py-32 bg-gradient-to-b from-gray-50 to-white">
-      <div className="max-w-4xl mx-auto px-6">
+      <div className="max-w-7xl mx-auto px-6">
         <h2 className="text-3xl md:text-4xl font-bold mb-16 leading-relaxed">FAQs</h2>
 
         <div className="space-y-12">

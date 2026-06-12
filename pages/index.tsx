@@ -6,6 +6,7 @@ import Protocols from '@/components/Protocols';
 import FAQs from '@/components/FAQs';
 import Partnership from '@/components/Partnership';
 import Footer from '@/components/Footer';
+import ClassificationSection from '@/components/ClassificationSection';
 
 export default function Home() {
 	return (
@@ -34,14 +35,8 @@ export default function Home() {
 
 					<TextSection
 						title="We build from profits, not from promises."
-						subtitle="Our trading operations are cash-flow positive with high margins. We do not rely on venture capital, investor rounds, or revenue growth targets — we fund our own future on our own terms."
+						subtitle="Our trading operations are cash-flow positive with high margins. We do not rely on venture capital, investor rounds, or revenue growth targets — we fund our own future on our own terms. Financial independence lets us expand into new markets and develop new strategies with precision, patience, and long-term conviction."
 						bgColor="bg-gray-50"
-					/>
-
-					<TextSection
-						title="Financial independence opens new markets."
-						subtitle="Freed from external funding constraints, we expand into new markets and develop new business strategies with precision, patience, and long-term conviction. Profitable today, building for tomorrow."
-						bgColor="bg-white"
 					/>
 
 					<ImageTextSection
@@ -57,6 +52,8 @@ export default function Home() {
 					/>
 
 					<Protocols />
+
+					<ClassificationSection bgColor="bg-white" />
 
 					<FAQs />
 
