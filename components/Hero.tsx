@@ -10,7 +10,9 @@ export default function Hero() {
 						<h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight">
 							Private Equity.
 							<br />
-							Web3 Research.
+							Partnerships.
+							<br />
+							Research.
 						</h1>
 						<p className="text-lg md:text-xl text-gray-700 leading-relaxed">
 							3Dots Capital OÜ is a private limited liability
