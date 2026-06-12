@@ -36,7 +36,16 @@ export default function Footer() {
 									16523199
 								</a>
 							</p>
-							<p>LEI: 9845008ZFC4A2C4UF897</p>
+							<p>
+								LEI:{' '}
+								<a
+									href="https://search.gleif.org/#/record/9845008ZFC4A2C4UF897"
+									target="_blank"
+									rel="noopener noreferrer"
+									className="text-gray-300 hover:text-white transition-colors">
+									9845008ZFC4A2C4UF897
+								</a>
+							</p>
 							<p>Est. 21 June 2022 · Private limited company</p>
 						</div>
 					</div>
