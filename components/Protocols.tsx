@@ -9,7 +9,7 @@ const areas = [
 		name: 'Partnerships',
 		since: 'Since 2025',
 		description:
-			'We offer invoice structuring, expense management, basic bookkeeping for organized administration & financial planning. Subscription-based revenue model. We also support partners with short-term liquidity and cover operational expenses on their behalf. ',
+			'We offer invoice structuring, expense management, basic bookkeeping for organized administration & financial planning. We also support partners with short-term liquidity and cover operational expenses on their behalf. Subscription-based revenue model.',
 	},
 	{
 		name: 'Research',
