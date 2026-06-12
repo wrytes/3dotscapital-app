@@ -15,12 +15,19 @@ export default function Hero() {
 							Research.
 						</h1>
 						<p className="text-lg md:text-xl text-gray-700 leading-relaxed">
-							3Dots Capital OÜ is a private limited liability
-							company established in Estonia in 2022. We develop
-							and execute profitable trading strategies in
-							traditional financial markets, while channeling
-							those earnings into research and development of new
-							strategic business ventures.
+							<a
+								href="https://ariregister.rik.ee/eng/company/16523199/3Dots-Capital-O%C3%9C"
+								target="_blank"
+								rel="noopener noreferrer"
+								className="underline underline-offset-2 hover:text-gray-500 transition-colors">
+								3Dots Capital OÜ
+							</a>{' '}
+							is a private limited liability company established
+							in Estonia in 2022. We develop and execute
+							profitable trading strategies in traditional
+							financial markets, while channeling those earnings
+							into research, development, and new strategic
+							business ventures.
 						</p>
 					</div>
 

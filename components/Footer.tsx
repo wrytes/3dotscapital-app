@@ -83,8 +83,8 @@ export default function Footer() {
 									className="text-gray-300 hover:text-white transition-colors">
 									Wrytes AG
 								</a>
-								, our technology partner for building and
-								maintaining cutting-edge systems.
+								, our technology partner for software development
+								and digital infrastructure.
 							</p>
 						</div>
 					</div>
