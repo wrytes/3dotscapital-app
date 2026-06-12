@@ -9,7 +9,7 @@ const areas = [
 		name: 'Partnerships',
 		since: 'Since 2025',
 		description:
-			'We offer invoice structuring, expense management, and basic bookkeeping for organized administration and financial planning. We also support known partners or related business ventures with short-term liquidity and cover operational expenses on their behalf. Subscription-based revenue model.',
+			"We partner with small digital businesses and independent operators who run lean – no finance team, no CFO, just founders getting things done. Need invoices handled, expenses tracked, or someone to cover operational costs while you build? That's where we come in. Not a bank, not an agency – just a small team that understands what it means to operate without overhead. Subscription-based revenue model.",
 	},
 	{
 		name: 'Research',

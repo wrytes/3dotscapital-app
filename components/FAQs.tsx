@@ -10,7 +10,7 @@ const faqs = [
 	},
 	{
 		question: 'What does the Partnerships area offer?',
-		answer: 'We offer invoice structuring, expense management, and basic bookkeeping and accounting for more organized financial planning. We also support known partners or related business ventures who need short-term liquidity — covering operational expenses on their behalf. ',
+		answer: 'We work with small digital businesses and independent operators who need invoices handled, expenses tracked, or a reliable counterpart to cover operational costs. Not a bank, not an agency – just a small team that understands what it means to operate without overhead.',
 	},
 	{
 		question: 'What is the Wrytes Platform?',
