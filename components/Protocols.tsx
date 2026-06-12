@@ -3,19 +3,19 @@ const areas = [
 		name: 'Financial Markets',
 		since: 'Since 2022',
 		description:
-			'Developing and executing active trading strategies using options as the primary vehicle through global market infrastructure. Mark-to-Market revenue model.',
+			'Developing and executing active trading strategies using theta-positive option strategies as the primary vehicle through global market infrastructure. Mark-to-Market revenue model.',
 	},
 	{
 		name: 'Partnerships',
 		since: 'Since 2025',
 		description:
-			'We offer invoice structuring, expense management, basic bookkeeping for organized administration & financial planning. We also support partners with short-term liquidity and cover operational expenses on their behalf. Subscription-based revenue model.',
+			'We offer invoice structuring, expense management, and basic bookkeeping for organized administration and financial planning. We also support known partners or related business ventures with short-term liquidity and cover operational expenses on their behalf. Subscription-based revenue model.',
 	},
 	{
 		name: 'Research',
 		since: 'Starting 2026',
 		description:
-			'Research and development of Cryptographic and Distributed Ledger tools and technologies — including transparent accounting systems, immutable agreement frameworks, and governance models driven by game theory. Subscription-based revenue model.',
+			'Research and development of cryptographic and distributed ledger tools and technologies — including transparent accounting systems, immutable agreement frameworks, and governance models driven by game theory. Subscription-based revenue model.',
 	},
 	{
 		name: 'Private Equity',
