@@ -42,10 +42,43 @@ export default function Home() {
 					<ImageTextSection
 						imageSrc="/images/architecture-geometric.jpg"
 						imageAlt="Mirrored architectural facades"
-						subtitle="Trading strategies built on discipline, not speculation."
+						subtitle="Core platforms we rely on."
 						text={[
-							'We use options as our primary trading vehicle — strategically selling volatility and exposure through over one-year contracts, backed by cash-covered positions for robust risk management.',
-							'Operating through Interactive Brokers gives us access to global markets and diverse financial instruments, allowing us to execute capital-efficient strategies that generate consistent, high-margin returns.',
+							<>
+								<a
+									href="https://www.interactivebrokers.co.uk/"
+									target="_blank"
+									rel="noopener noreferrer"
+									className="font-semibold text-gray-900 underline underline-offset-2 hover:text-gray-600 transition-colors"
+								>
+									Interactive Brokers
+								</a>
+								{' '}is our primary trading platform — giving us access to global markets and a broad range of financial instruments to execute our strategies with precision.
+							</>,
+							<>
+								<a
+									href="https://www.revolut.com/business/"
+									target="_blank"
+									rel="noopener noreferrer"
+									className="font-semibold text-gray-900 underline underline-offset-2 hover:text-gray-600 transition-colors"
+								>
+									Revolut Business
+								</a>
+								{' '}handles our banking and expense operations, with multi-currency support across our transactions. EUR is our primary operating currency.
+						</>,
+						<>
+							<a
+								href="https://wrytes.io"
+								target="_blank"
+								rel="noopener noreferrer"
+								className="font-semibold text-gray-900 underline underline-offset-2 hover:text-gray-600 transition-colors"
+							>
+								Wrytes Platform
+							</a>
+							{' '}
+							<span className="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-gray-100 text-gray-500 align-middle">In development</span>
+							{' '}— our own solution for digital companies, covering administration, accounting, invoicing, financial planning, and shareholder management in one place.
+						</>,
 						]}
 						imagePosition="left"
 						bgColor="bg-gray-50"

@@ -3,25 +3,25 @@ const areas = [
 		name: 'Financial Markets',
 		since: 'Since 2022',
 		description:
-			'Developing and executing active trading strategies using options as the primary vehicle through global market infrastructure. Market-to-Market based revenue model',
+			'Developing and executing active trading strategies using options as the primary vehicle through global market infrastructure. Market-to-Market based revenue model.',
 	},
 	{
 		name: 'Partnerships',
 		since: 'Since 2025',
 		description:
-			'We support partners with short-term liquidity and cover operational expenses on their behalf. We also offer invoice structuring, expense management, basic bookkeeping for organized administration & financial planning. Subscription based revenue model',
+			'We support partners with short-term liquidity and cover operational expenses on their behalf. We also offer invoice structuring, expense management, basic bookkeeping for organized administration & financial planning. Subscription based revenue model.',
 	},
 	{
 		name: 'Research',
 		since: 'Starting 2026',
 		description:
-			'Research and development of Cryptographic and Web3 tools and technologies — including transparent accounting systems, immutable agreement frameworks, and governance models driven by game theory. Subscription based revenue model',
+			'Research and development of Cryptographic and Distributed Ledger tools and technologies — including transparent accounting systems, immutable agreement frameworks, and governance models driven by game theory. Subscription based revenue model.',
 	},
 	{
 		name: 'Private Equity',
 		since: 'Planned 2027/2028',
 		description:
-			'Engaging in strategic funding deals with investors and business partners. Focused on building long-term relationships that align with our financial and technological growth objectives. Various financing deals and structures',
+			'Engaging in strategic funding deals with investors and business partners. Focused on building long-term relationships that align with our financial and technological growth objectives. Various financing deals and structures.',
 	},
 ];
 

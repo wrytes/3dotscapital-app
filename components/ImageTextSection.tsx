@@ -1,10 +1,11 @@
+import React from "react";
 import Image from "next/image";
 
 interface ImageTextSectionProps {
   imageSrc: string;
   imageAlt: string;
   subtitle: string;
-  text: string[];
+  text: React.ReactNode[];
   imagePosition?: "left" | "right";
   bgColor?: string;
 }
