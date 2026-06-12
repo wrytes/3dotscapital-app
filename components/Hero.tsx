@@ -22,7 +22,7 @@ export default function Hero() {
 								className="underline underline-offset-2 hover:text-gray-500 transition-colors">
 								3Dots Capital OÜ
 							</a>{' '}
-							is a private limited liability company established
+							is a private limited company incorporated
 							in Estonia in 2022. We develop and execute
 							profitable trading strategies in traditional
 							financial markets, while channeling those earnings
