@@ -10,7 +10,7 @@ export default function Footer() {
 						<div className="flex items-center gap-4">
 							<div className="bg-white p-2 rounded-lg">
 								<Image
-									src="/images/3dotshub-150x150.png"
+									src="/images/3dots_300dpi_transp.png"
 									alt="3Dots Capital OÜ logo"
 									width={60}
 									height={60}
@@ -83,8 +83,8 @@ export default function Footer() {
 									className="text-gray-300 hover:text-white transition-colors">
 									Wrytes AG
 								</a>
-								, our technology partner for software development
-								and digital infrastructure.
+								, our technology partner for software
+								development and digital infrastructure.
 							</p>
 						</div>
 					</div>

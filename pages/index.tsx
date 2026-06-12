@@ -7,6 +7,7 @@ import FAQs from '@/components/FAQs';
 import Partnership from '@/components/Partnership';
 import Footer from '@/components/Footer';
 import ClassificationSection from '@/components/ClassificationSection';
+import Documents from '@/components/Documents';
 
 export default function Home() {
 	return (
@@ -87,6 +88,8 @@ export default function Home() {
 					<Protocols />
 
 					<ClassificationSection bgColor="bg-white" />
+
+					<Documents bgColor="bg-gray-50" />
 
 					<FAQs />
 
