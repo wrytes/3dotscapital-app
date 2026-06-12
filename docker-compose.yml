@@ -28,6 +28,8 @@ services:
             - LETSENCRYPT_HOST=${LETSENCRYPT_HOST}
             - VIRTUAL_HOST=${VIRTUAL_HOST}
             - VIRTUAL_PORT=${VIRTUAL_PORT}
+            - NEXT_PUBLIC_UMAMI_URL=${NEXT_PUBLIC_UMAMI_URL}
+            - NEXT_PUBLIC_UMAMI_WEBSITE_ID=${NEXT_PUBLIC_UMAMI_WEBSITE_ID}
         networks:
             - frontend
 
