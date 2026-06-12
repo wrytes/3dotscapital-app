@@ -11,10 +11,7 @@ export default function Home() {
 	return (
 		<>
 			<Head>
-				<title>
-					3Dots Capital OÜ - Active Trading. Private Equity. Web3
-					Research.
-				</title>
+				<title>3Dots Capital OÜ - Private Equity. Web3 Research.</title>
 				<meta
 					name="description"
 					content="3Dots Capital OÜ is an Estonian company developing profitable trading strategies in traditional markets while funding research and development in cutting-edge technologies."
